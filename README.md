@@ -19,7 +19,6 @@ Step by step:
 
 4. Define your H1 in your css and your set up is done!
 
----
 ## Example
 
 Setup index.html:
@@ -153,9 +152,6 @@ Load v-rhythm.js in the bottom of your HTML code inside your body tag.
 			</html>
 
 ## And you're done!
-
----
-
 
 ## Something wrong?
 
