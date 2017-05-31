@@ -12,12 +12,12 @@ V-Rhythm makes sure  you never have to worry about the spaces between your heade
 
 Step by step:
 
-a. 	Download V-Rhythm.js at www.V-Rhythm.com
+1. 	Download V-Rhythm.js at www.V-Rhythm.com
 
-b. 	Add the v-rhythm.js to you directory, and load it in the bottom of your HTML code 
+2. 	Add the v-rhythm.js to you directory, and load it in the bottom of your HTML code 
 		(<script src="YOUR/PATH/v-rhythm.js"></script>)
 
-c. Define your H1 in your css and your set up is done!
+3. Define your H1 in your css and your set up is done!
 
 ## Example
 
