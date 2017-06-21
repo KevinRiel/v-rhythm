@@ -30,7 +30,6 @@ function myFunction() {
 		paragraphs[i].style.margin = pMargin  + "px 0";
 	}
 	
-	//console.log(pFontSize);
 }
 
 myFunction();
