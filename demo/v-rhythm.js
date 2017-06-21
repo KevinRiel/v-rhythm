@@ -11,7 +11,7 @@ el.style.hfontSize = (hfontSize + 1) + "px";
 var hLineHeight 	= (hfontSize * 1.1);
 var hMargin		 	= (hLineHeight * 0.5);
 var pLineHeight 	= (hLineHeight * 1);
-var pFontSize 		= (hfontSize * 0.6);
+var pFontSize 		= (hfontSize * 0.3);
 var pMargin		 	= (hLineHeight * 0.5);
 	
 
