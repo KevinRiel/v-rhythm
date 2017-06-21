@@ -30,14 +30,6 @@ function myFunction() {
 		paragraphs[i].style.margin = pMargin  + "px 0";
 	}
 	
-	var paragraphsExept = document.getElementById("exept");
-	
-	for (var i = 0; i<paragraphsExept.length; i++){
-		paragraphsExept[i].style.lineHeight = pLineHeight  + "px";
-		paragraphsExept[i].style.fontSize = pFontSize  + "px";
-		paragraphsExept[i].style.margin = pMargin  + "px 0";
-	}
-	
 }
 
 myFunction();
